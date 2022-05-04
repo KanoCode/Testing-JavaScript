@@ -1,0 +1,23 @@
+{
+  "name": "testing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanoCode/Testing-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanoCode/Testing-JavaScript/issues"
+  },
+  "homepage": "https://github.com/KanoCode/Testing-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
